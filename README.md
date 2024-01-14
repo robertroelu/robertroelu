@@ -4,7 +4,7 @@ I'm Co-Founder & CTO at Roelu, code and low-code enthusiast specialize on creati
 
 🎯 **Roelu - The Webflow Experts** <br/>
 At Roelu we specialize in leveraging the power of Webflow to create visually stunning and functionally robust websites. <br/>
-In addition to Webflow, we offer **Shopify ecommerce** solutions seamlessly integrated with the exceptional UI/UX provided by Webflow. This combination ensures a user-friendly and visually appealing online shopping experience for your customers. <br/>
+In addition to Webflow, we offer **Shopify e-commerce** solutions seamlessly integrated with the exceptional UI/UX provided by Webflow. This combination ensures a user-friendly and visually appealing online shopping experience for your customers. <br/>
 
 🔧 **Feel free to explore the code snippets and solutions provided in this repository** <br/>
 Keep in mind that these codes are tailored for specific clients, so some adjustments may be needed for your particular use case.
