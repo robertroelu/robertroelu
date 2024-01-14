@@ -10,4 +10,6 @@ In addition to Webflow, we offer **Shopify ecommerce** solutions seamlessly inte
 Keep in mind that these codes are tailored for specific clients, so some adjustments may be needed for your particular use case.
 
 🚀 If you have any questions, suggestions, or inquiries about our services, don't hesitate to reach out. <br/>
-You can contact me via email at robert@roelu.com or connect with me on <a href="https://www.linkedin.com/in/robertklimant/">LinkedIn</a>.
+You can contact me via email at robert@roelu.com or connect with me on <a href="https://www.linkedin.com/in/robertklimant/" target="_blank">LinkedIn</a>.
+
+For our work with custom code in Webflow projects we use the <a href="https://github.com/finsweet/developer-starter" target="_blank">Finsweet Developer-Starter</a> template.
