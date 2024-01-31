@@ -1,5 +1,5 @@
 <img width="1584" alt="Linkedin profile- title - 3" src="https://github.com/robertroelu/robertroelu/assets/64545490/4c1449bc-eab3-409d-9f58-720325324664"/>
-👨🏻‍💻 **My name is Róbert Klimant** <br/>
+👨🏻‍💻 <b>My name is Róbert Klimant</b> <br/>
 I'm Co-Founder & CTO at Roelu, code and low-code enthusiast specialize on creating solutions which brings your business grow. <br/> My main focus is on Javascript (Typescript), where I explore and implement a variety of functionalities such as swipers, gsap animations, modals, popups, API calls, data handling, and much more.
 
 🎯 **Roelu - The Webflow Experts** <br/>
