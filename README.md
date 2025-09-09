@@ -1,12 +1,29 @@
-👨🏻‍💻 <b>My name is Róbert Klimant</b> <br/>
-I'm Co-Founder Roelu, code and low-code enthusiast specialize on creating solutions which brings your business grow. <br/> My main focus is on Javascript (Typescript), where I explore and implement a variety of functionalities such as swipers, gsap animations, modals, popups, API calls, data handling, and much more.
+# 👋 Hi, I’m Róbert Klimant
 
-🎯 **Roelu - The Webflow Experts** <br/>
-At Roelu we specialize in leveraging the power of Webflow to create visually stunning and functionally robust websites. <br/>
-In addition to Webflow, we offer **Shopify e-commerce** solutions seamlessly integrated with the exceptional UI/UX provided by Webflow. This combination ensures a user-friendly and visually appealing online shopping experience for your customers. <br/>
+Co-Founder of **Roelu** — a two-man studio delivering **enterprise-level Webflow builds**. I’m a code & low-code developer focused on **JavaScript/TypeScript** for Webflow: Swiper.js carousels, GSAP/ScrollTrigger animations, Lottie 3D, modals/popups, complex validated forms, API calls, data handling, and more.
 
-🔧 **Feel free to explore the code snippets and solutions provided in this repository** <br/>
-Keep in mind that these codes are tailored for specific clients, so some adjustments may be needed for your particular use case.
+I’m also building **Colper.ai**, an **AI mentor for Webflow creators** that teaches fundamentals step by step and helps while you build.
 
-🚀 If you have any questions, suggestions, or inquiries about our services, don't hesitate to reach out. <br/>
-You can contact me via email at robert@roelu.com or connect with me on <a href="https://www.linkedin.com/in/robertklimant/" target="_blank">LinkedIn</a>.
+---
+
+## 🎯 Roelu — Webflow Experts
+We ship **pixel-perfect, fast, and scalable** Webflow sites with clean CMS architecture and maintainable components.  
+**30+ enterprise-grade projects** delivered with a focus on performance, accessibility, and technical SEO.
+
+Beyond Webflow, we implement:
+- **Shopify e-commerce** paired with Webflow UI/UX
+- **Integrations & CRMs**
+- Custom **JS/TS modules** (calculators, multi-step forms, quizzes, etc.)
+
+---
+
+## 🔧 About this repo
+You’ll find practical **code snippets and solutions** extracted from real projects.  
+They’re tailored to specific client contexts, so you may need to adapt them to your use case.
+
+---
+
+## 💬 Get in touch
+- Email: **robert@roelu.com**  
+- LinkedIn: [linkedin.com/in/robertklimant](https://www.linkedin.com/in/robertklimant/)
+
